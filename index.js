@@ -42,7 +42,7 @@ app.get("/name", (req,res)=>{
     res.json({name : 'Anandhan K'})
 })
 
-// workouts 
+// workouts for basic 
 const fs = require("fs");
 const path = require("path");
 const workersLists = require("./Workers.json");
