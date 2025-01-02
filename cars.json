@@ -1,0 +1,22 @@
+[
+    {
+        "make" : "Toyota",
+        "userId" : 1
+    },
+    {
+        "make" : "Honda",
+        "userId" : 2
+    },
+    {
+        "make" : "Tata",
+        "userId" : 3
+    },
+    {
+        "make" : "Vayogo",
+        "userId" : 4
+    },
+    {
+        "make" : "Ninja",
+        "userId" : 5
+    }
+]

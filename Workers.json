@@ -1,0 +1,52 @@
+[
+  {
+    "employeName": "Elon musk",
+    "employeNative": "America",
+    "emailId": "elon@gmail.com"
+  },
+  {
+    "employeName": "Mark",
+    "employeNative": "japan",
+    "emailId": "mark@gmail.com"
+  },
+  {
+    "employeName": "Trump",
+    "employeNative": "Africa",
+    "emailId": "trump@gmail.com"
+  },
+  {
+    "employeName": "Kevin",
+    "employeNative": "England",
+    "emailId": "kevin@gmail.com"
+  },
+  {
+    "employeName": "Bacha",
+    "employeNative": "India",
+    "emailId": "bacha@gmail.com"
+  },
+  {
+    "employeName": "Root",
+    "employeNative": "Russia",
+    "emailId": "root@gmail.com"
+  },
+  {
+    "employeName": "Trump",
+    "employeNative": "Africa",
+    "emailId": "trump1@gmail.com"
+  },
+  {
+    "employeName": "Trump",
+    "employeNative": "Africa",
+    "emailId": "trump2@gmail.com"
+  },
+  {
+    "employeName": "Pazhani",
+    "employeNative": "Africa",
+    "emailId": "pazhani@gmail.com"
+  },
+  {
+    "employeName": "Pazhanisamy",
+    "employeNative": "Africa",
+    "emailId": "pazhani1@gmail.com"
+  }
+]
